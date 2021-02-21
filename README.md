@@ -175,7 +175,7 @@ time used: 6.285 s
 ```
 消费端验证:
 
-![数据消费](../img/kafka.png)
+![数据消费](./img/kafka.png)
 
 ### json嵌套或任意数据结构(可不是jon)
 ```sh
